@@ -1,0 +1,3 @@
+﻿Prefix = 9
+token= NTEwNDE2NjUxMTgzODQ5NDgy.DscCHw.xFv5a_xg-D3ex36EzAiiE7HuaWI
+owner=326005154979774465
